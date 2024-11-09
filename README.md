@@ -32,8 +32,8 @@ Before running the project, ensure that you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/research-paper-management.git
-cd research-paper-management
+git clone https://github.com/Akash-Agarwal-X/Research-Paper-Management-System.git
+cd Research-Paper-Management-System
 ```
 
 ### 2. No build tools required
@@ -66,7 +66,7 @@ Alternatively, you can compile and run the Java code using command line.
 ## Folder Structure
 
 ```
-/research-paper-management
+/Research-Paper-Management-System
 |-- /src
 |   |-- /controllers
 |   |   |-- AuthorController.java
